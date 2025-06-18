@@ -59,9 +59,9 @@ layers:
   - $$mdi:apple-keyboard-control$$
   - $$mdi:keyboard-space$$
   - layer1
-  - {t: '$$mdi:backspace$$', type: backspace}
-  - '2'
   - {t: '$$mdi:keyboard-return$$', type: enter}
+  - '2'
+  - {t: '$$mdi:backspace$$', type: backspace}
   - {t: '-', s: _}
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
